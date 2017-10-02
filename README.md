@@ -6,4 +6,4 @@ Include Misses addresses, Access addresses and kernel, cycle number of each. (co
 # Sequiture
 An implemented form of sequitur code for analyzing misses of caches and calculating the opportunity of prefetching.
 # L2-Cache-Sim
-A simulation of L2 cache in C++ with parametric Options and various replacement policies.
+A simulation of L2 cache in C++ with parametric size and options and various replacement policies.
